@@ -60,16 +60,17 @@ p{
 }
 
 .bottom-cloud{
-    position: absolute;
+    margin-top: 50px;
+    position:absolute;
     left: 300px;
-    bottom: 200px;
+    top: 30px;
 }
 
 .top-cloud{
     margin-top: 50px;
     position:absolute;
     right: 300px;
-    top: 30px;
+    top: 90px;
     
 }
 .skills{
