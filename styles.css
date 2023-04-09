@@ -97,7 +97,7 @@ p{
     width: 25%;
     float: left;
     position: relative;
-    
+    bottom: 100px;
 }
 
 .computers{
