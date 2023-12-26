@@ -1,7 +1,3 @@
-# 💫 About Me:
-💬 Ask me about #backend<br>⚡ Fun fact I'm funny!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogeshvashisth/) 
 
