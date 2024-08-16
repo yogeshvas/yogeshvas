@@ -1,10 +1,8 @@
 i code :)
 
-my responsibilites
-
 
 skilled at
-c
+-[ ] c
 c++
 java
 python 
