@@ -1,4 +1,4 @@
-i code in: 
+# i code in: 
 1. c
 2. c++
 3. java
@@ -18,7 +18,7 @@ i code in:
 
 
 
-my products used by users.
+# my products used by users.
 1. windyui : opensource premade tailwind components
 2. ai-college-helper : reads pdf's, images and ppt to generate video and text summary.
 3. khair-explains: teaching platform for my gdsc students
