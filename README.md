@@ -1,7 +1,4 @@
-i code :)
-
-
-skilled at
+i code in: 
 1. c
 2. c++
 3. java
