@@ -6,24 +6,25 @@ my tech
 3. js
 4. reactjs
 5. nextjs
-6. nodejs
-7. expressjs
-8. mongodb
-9. mongoose
-10. socketio
-11. webrtc
-12. payment_gateway_integration
-13. react_native(cli+expo)
-14. docker
-15. kubernate
-16. jenkins
-17. aws(ec2, ebs, loadbalancers)
-18. java
-19. python
-20. cpp
-21. c
-22. springboot
-23. ai(mainly gemini)
-24. postgress
-25. prisma neon
-26. (openvc)
+6. adminjs
+7. nodejs
+8. expressjs
+9. mongodb
+10. mongoose
+11. socketio
+12. webrtc
+13. payment_gateway_integration
+14. react_native(cli+expo)
+15. docker
+16. kubernate
+17. jenkins
+18. aws(ec2, ebs, loadbalancers)
+19. java
+20. python
+21. cpp
+22. c
+23. springboot
+24. ai(mainly gemini)
+25. postgress
+26. prisma neon
+27. (openvc)
