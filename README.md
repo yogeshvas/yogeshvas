@@ -13,7 +13,7 @@ React Native (CLI + Expo)
 Node.js
 Express.js
 Spring Boot
-Databases:
+- [ ] Databases:
 MongoDB
 Mongoose
 PostgreSQL
