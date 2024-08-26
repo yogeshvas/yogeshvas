@@ -28,7 +28,7 @@ Jenkins
 AWS (EC2, EBS, Load Balancers)
 CI/CD
 - [ ] Payment Integration:
-Payment Gateway Integration
+Payment Gateway Integration like stripe, razor pay, phonepe
 - [ ] Programming Languages:
 Java
 Python
