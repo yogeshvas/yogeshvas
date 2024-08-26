@@ -41,5 +41,4 @@ AI (Mainly Gemini)
 OpenCV
 
 and
-
 Pushing Apps to Play Store and App Store
