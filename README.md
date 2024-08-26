@@ -28,5 +28,3 @@ my tech
 25. postgress
 26. prisma neon
 27. (openvc)
-
-![](https://komarev.com/ghpvc/?username=yogeshvas)
