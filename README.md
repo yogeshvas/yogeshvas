@@ -1,6 +1,6 @@
 i code :)
 
-- [ ] Front-End Development:
+- [x] Front-End Development:
 HTML
 CSS
 JavaScript (JS)
@@ -9,35 +9,35 @@ Next.js
 AdminJS
 Electron.js
 React Native (CLI + Expo)
-- [ ] Back-End Development:
+- [x] Back-End Development:
 Node.js
 Express.js
 Spring Boot
-- [ ] Databases:
+- [x] Databases:
 MongoDB
 Mongoose
 PostgreSQL
 Prisma Neon
-Real-Time Communication:
+- [x] Real-Time Communication:
 Socket.io
 WebRTC
-- [ ] DevOps & Cloud:
+- [x] DevOps & Cloud:
 Docker
 Kubernetes
 Jenkins
 AWS (EC2, EBS, Load Balancers)
 CI/CD
-- [ ] Payment Integration:
+- [x] Payment Integration:
 Payment Gateway Integration like stripe, razor pay, phonepe
-- [ ] Programming Languages:
+- [x] Programming Languages:
 Java
 Python
 C++
 C
 javascript
-- [ ] Artificial Intelligence:
+- [x] Artificial Intelligence:
 AI (Mainly Gemini)
-- [ ] Computer Vision:
+- [x] Computer Vision:
 OpenCV
 
 and
