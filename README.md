@@ -1,1 +1,1 @@
-i code
+i write softwares for companies.
