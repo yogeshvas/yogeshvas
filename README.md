@@ -1,1 +1,1 @@
-i write softwares for companies.
+i vomit code
