@@ -1,1 +1,4 @@
-i vomit code and i do it everyday.
+I make softwares. 
+
+
+
