@@ -1,4 +1,1 @@
-I make softwares. 
-
-
-
+I make softwares in b2b.
