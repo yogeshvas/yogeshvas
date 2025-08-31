@@ -1,1 +1,1 @@
-I make softwares in b2b.
+building kyro.in
