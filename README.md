@@ -1,1 +1,1 @@
-building kyro.in
+building kryo.in
