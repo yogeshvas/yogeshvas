@@ -8,4 +8,4 @@ visitflow.site
 <br />
 swib.in
 <br />
-AI College helper (Play Store)
+ai college helper (play store)
