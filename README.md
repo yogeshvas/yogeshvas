@@ -1,6 +1,4 @@
-@builiding 
-<br />
-kryo.in
+@builiding : kryo.in
 
 @products
 <br />
