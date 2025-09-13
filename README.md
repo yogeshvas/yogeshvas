@@ -1,3 +1,5 @@
+To make my products work, I have done Coding, Sales, Pitch, Marketing, Product Management, Generative AI, anything and everything required to make these products run in the market, and somehow some worked good and some worked great. 
+<br />
 @builiding
 <br />
 saasflow.us (for Global Market) 
