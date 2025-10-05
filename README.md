@@ -20,5 +20,5 @@ swib.in (4500+ Users base)
 ai college helper (play store) (198 Users)
 <br />
 
-<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B4ZnM0emdqeTl4aTBsenp6d3VibXRpc2tsMmhuNjYxMm10N25tayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cnk4ZRTlfeI32o/giphy.gif"/>
+<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlrZzYxdG52cThxaDI5MHpsM3E5N21kM3psOWV3bDNkZXg0YXR4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwfbJvRNHb5sI/giphy.gif"/>
 
